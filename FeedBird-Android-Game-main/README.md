@@ -32,7 +32,7 @@ The game offers three distinct screens:
 
 🏆 **Beat Your Highest Score**: Keep track of your progress and aim to beat your highest score with each playthrough.
 
-## Installation
+
 
 ### Clone the Repository:
 
